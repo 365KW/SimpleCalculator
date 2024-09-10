@@ -1,2 +1,3 @@
-# Team-365
-This a Alphs poject.
+# SimpleCalculator
+
+This is a bound JavaSwing build Java App,it can do some math task.
